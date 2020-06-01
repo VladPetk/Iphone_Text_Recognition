@@ -20,4 +20,6 @@ https://github.com/tensorflow/models/tree/079d67d9a0b3407e8d074a200780f3835413ef
 
 The Jupyter Notebook file (Recognition_script.ipynb) contains the script used in the project. 
 
+The images used to train the model were not upload due to their size. 
+
 A list of required packages is to be added.
