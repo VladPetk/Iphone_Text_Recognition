@@ -1,0 +1,39 @@
+item {
+  id: 1
+  name: 'app'
+}
+
+item {
+  id: 2
+  name: 'activity'
+}
+
+item {
+  id: 3
+  name: 'not_over'
+}
+
+item {
+  id: 4
+  name: 'not_app'
+}
+
+item {
+  id: 5
+  name: 'pick_over'
+}
+
+item {
+  id: 6
+  name: 'pick_app'
+}
+
+item {
+  id: 7
+  name: 'use_over'
+}
+
+item {
+  id: 8
+  name: 'week'
+}

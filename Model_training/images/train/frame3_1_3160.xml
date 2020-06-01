@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train_set</folder>
+	<filename>frame3_1_3160.jpg</filename>
+	<path>C:\Users\Admin\Desktop\train_set\frame3_1_3160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>use_over</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>772</ymin>
+			<xmax>703</xmax>
+			<ymax>952</ymax>
+		</bndbox>
+	</object>
+</annotation>
