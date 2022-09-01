@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pape_apps</folder>
+	<filename>a_fielder105.jpg</filename>
+	<path>C:\Users\Vilenskij Ser\Desktop\pape_apps\a_fielder105.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>38</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>name</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>2</ymin>
+			<xmax>85</xmax>
+			<ymax>19</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>time</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>22</ymin>
+			<xmax>78</xmax>
+			<ymax>37</ymax>
+		</bndbox>
+	</object>
+</annotation>

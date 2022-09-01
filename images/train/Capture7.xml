@@ -1,0 +1,38 @@
+<annotation>
+	<folder>pape_apps</folder>
+	<filename>Capture7.JPG</filename>
+	<path>C:\Users\Vilenskij Ser\Desktop\pape_apps\Capture7.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>63</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>name</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>1</ymin>
+			<xmax>171</xmax>
+			<ymax>32</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>time</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>34</ymin>
+			<xmax>132</xmax>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>
